@@ -1,0 +1,39 @@
+.form-input-group {
+    padding-bottom: 50px;
+}
+.format{
+	
+}
+@media screen and (max-width: 700px){
+	.form-input-group
+	{
+		padding-bottom: 75px;
+	}
+}
+
+.menu {
+	padding: 5px;
+	background-color: #24c4db;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+}
+
+.menu a{
+	text-decoration: none;
+	color: white
+}
+
+.menu a:hover{
+	text-decoration: none;
+	color: orange;
+}
+
+a.active{
+	color: orange;
+}
+.printcss
+{
+    margin-right: 35px;
+    margin-bottom: 15px;
+}
